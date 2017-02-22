@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F67A15C6A82572643901F998967A04C4DB1D2510",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F67A15C6A82572643901F998967A04C4DB1D2510" : 0,
+    "1EEDE282C656EFE9C775B50B4C2790A3F0653DB2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BA499A6D-F68B-427F-A020-B6108D381CAD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F67A15C6A82572643901F998967A04C4DB1D2510" : "cocos2dx_plugin\/",
+    "1EEDE282C656EFE9C775B50B4C2790A3F0653DB2" : "ios_pokktsdk\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Cocos2dxV3xPlugin",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Cocos2dxV3xPlugin\/proj.ios_mac\/Cocos2dxV3xPlugin.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/ec2-52-74-40-252.ap-southeast-1.compute.amazonaws.com\/ios_pokktsdk\/ios_pokktsdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1EEDE282C656EFE9C775B50B4C2790A3F0653DB2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/ec2-52-74-40-252.ap-southeast-1.compute.amazonaws.com\/cocos2dx_plugin\/cocos2dx_plugin.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F67A15C6A82572643901F998967A04C4DB1D2510"
+    }
+  ]
+}
